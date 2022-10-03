@@ -13,4 +13,12 @@
         android:text="Pindah"
         android:layout_centerInParent="true"/>
 
+    <EditText
+        android:id="@+id/et_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:layout_above="@+id/btn_pindah"
+        android:layout_margin="6dp"
+
 </RelativeLayout>
