@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportActionBar().setTitle("Layout A");
-        
+
         btnPindah = findViewById(R.id.btn_pindah);
         etNama = findViewById(R.id.et_nama);
 
